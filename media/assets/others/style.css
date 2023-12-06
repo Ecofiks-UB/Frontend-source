@@ -76,7 +76,7 @@ body{
 }
 .social img{
     z-index:2;
-    height:70px;
+    height:80px;
     color:#fff;
     padding:10px 15px;
     flex-direction:row;
